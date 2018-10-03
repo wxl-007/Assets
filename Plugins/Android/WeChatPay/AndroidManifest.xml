@@ -1,0 +1,399 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.sourceforge.simcpux"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application>
+
+        <!-- ===============微信支付=============== -->
+        <activity
+            android:name="net.sourceforge.simcpux.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <!--131-->
+        <activity
+            android:name="game407.u.lobby131lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+
+        <!--597-->
+        <activity
+            android:name="qbq.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="game20dn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="game30m.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="bbdz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="brlz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ddz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ddzc.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="dznn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="dzpk.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ftwz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="hplz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="jqnn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="kpnn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="mxnn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="srnn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="srps.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbby.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbnn.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbsz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbdsz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbwz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="xj.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ysz.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="fkby.u.lobby597lua.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+
+        <!--510k-->
+        <activity
+            android:name="com.wylk.lkpy.wxapi.WXPayEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+
+        <!-- ================微信授权============ -->
+        <activity
+            android:name="net.sourceforge.simcpux.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <!--131-->
+        <activity
+            android:name="game407.u.lobby131lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+
+        <!--597-->
+        <activity
+            android:name="qbq.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="game20dn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="game30m.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="bbdz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="brlz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ddz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ddzc.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="dznn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="dzpk.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ftwz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="hplz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="jqnn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="kpnn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="mxnn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="srnn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="srps.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbby.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbnn.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbsz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbdsz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="tbwz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="xj.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="ysz.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <activity
+            android:name="fkby.u.lobby597lua.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+
+        <!--510k-->
+        <activity
+            android:name="com.wylk.lkpy.wxapi.WXEntryActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+
+        <!-- ==============加载网页============ -->
+        <activity
+            android:name="net.sourceforge.simcpux.wxapi.WebActivityController"
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+    </application>
+
+</manifest>
+
+    <!--game20dn-->
+    <!--game30m-->
+    <!--bbdz-->
+    <!--brlz-->
+    <!--ddz-->
+    <!--ddzc-->
+
+    <!--dznn-->
+    <!--dzpk-->
+    <!--ftwz-->
+    <!--hplz-->
+    <!--jqnn-->
+    <!--kpnn-->
+
+    <!--mxnn-->
+    <!--srnn-->
+    <!--srps-->
+    <!--tbby-->
+    <!--tbnn-->
+    <!--tbsz-->
+
+<!--tbdsz-->
+    <!--tbwz-->
+    <!--xj-->
+    <!--ysz-->
+<!--fkby-->

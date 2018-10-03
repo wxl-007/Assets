@@ -1,0 +1,29 @@
+{
+"result": "ok",
+"body":
+{
+"platformName":"game597",
+"hostURL":"http://pay.6666.cn",
+"downloadURL":"http://oss.aliyuncs.com/xinxin123/unity/",
+"rechargeURL":"",
+"feedbackContent":"\u5ba2\u670dQQ: 800091957  www.6666.cn",
+"unityMoney":"\u6b22\u4e50\u8c46",
+"instantUpdateUrl": [
+	"http://oss.aliyuncs.com/ggdownload/game597/InstantUpdate/"
+],
+"instantUpdateUrl_test": "http://oss.aliyuncs.com/ggdownload/game597/InstantUpdate_test/",
+"testers": "2015lxtd,monitor,monitor1,kefuceshi,fenyin1314,AlienTest1",
+"register_url":"http://pay.game597.cc/account/reg_mobile/",
+"wxShareUrl":"http://cod.6666.cn/down/1919/",
+"iOSFlagValidVersion":"6.28",
+"isCache_UserIp": false,
+"isInstantUpdate": true,
+"isMsgReceiver": true,
+"ios_pay_flag": true,
+"is_pool":true,
+"is_yan":true,
+"AndroidAuditID":["AndroidAudit_5187","AndroidAudit_5196","AndroidAudit_5194","AndroidAudit_5190","AndroidAudit_5197","AndroidAudit_5198","AndroidAudit_5189","AndroidAudit_5191","AndroidAudit_5193"],
+"game_hosts":"http://oss.aliyuncs.com/keyi518/api/787go.conf",
+"web_hosts":"http://oss.aliyuncs.com/keyi518/api/787go-socket.conf"
+}
+}

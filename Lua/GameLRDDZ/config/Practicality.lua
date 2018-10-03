@@ -1,0 +1,16 @@
+
+local Practicality = {
+	[1] = {Id=1, RoomType=1, RoomName="笔记本大赛", GiftTex="S_iphone", Date="0", Time="还有01小时51分开赛", Cost=10, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[2] = {Id=2, RoomType=1, RoomName="IPAD大赛", GiftTex="S_ipad", Date="0", Time="还有01小时11分开赛", Cost=50, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[3] = {Id=3, RoomType=1, RoomName="手机大赛", GiftTex="S_iphone", Date="0", Time="还有01小时21分开赛", Cost=100, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[4] = {Id=4, RoomType=2, RoomName="联想大赛", GiftTex="S_ipad", LimitNum=10, Date="0", Time="还有01小时31分开赛", Cost=150, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[5] = {Id=5, RoomType=2, RoomName="华为大赛", GiftTex="S_iphone", LimitNum=100, Date="0", Time="还有01小时41分开赛", Cost=200, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[6] = {Id=6, RoomType=2, RoomName="苹果大赛", GiftTex="S_ipad", LimitNum=1000, Date="0", Time="还有01小时01分开赛", Cost=300, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[7] = {Id=7, RoomType=3, RoomName="10元话费大赛", GiftTex="S_1yhf", LimitNum=10000, Date="0", Time="还有01小时12分开赛", Cost=400, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[8] = {Id=8, RoomType=3, RoomName="50元话费大赛", GiftTex="S_10yhf", LimitNum=10, Date="0", Time="还有01小时16分开赛", Cost=500, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[9] = {Id=9, RoomType=3, RoomName="100元话费大赛", GiftTex="S_1yhf", LimitNum=10, Date="0", Time="还有01小时41分开赛", Cost=8000, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	[10] = {Id=10, RoomType=3, RoomName="200元话费大赛", GiftTex="S_10yhf", LimitNum=50, Date="401", Time="还有01小时01分开赛", Cost=10000, Index1="第1名,联想笔记本", Index2="第2名,华为手机", Index3="第3名,IPAD", Index4="第4-6名,3000", Index5="第7-12名,2500", Index6="第13-24名,2000", Index7="第25-48名,1500", Index8="第49-96名,1000", Index9="0,0", Index10="0,0", Index11="0,0"},
+	
+}
+
+return Practicality

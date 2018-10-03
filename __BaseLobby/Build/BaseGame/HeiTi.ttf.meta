@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48873d1e0b8b5c74596d757aed7d7d50
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STHeiti
+  fontNames:
+  - STHeiti
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: baselobby/basegame.assetbundle
+  assetBundleVariant: 

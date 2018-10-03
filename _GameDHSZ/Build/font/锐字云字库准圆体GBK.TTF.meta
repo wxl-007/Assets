@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 60e420ef286b86f4b8f56208b07deeee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CloudYuanZhunGBK
+  fontNames:
+  - CloudYuanZhunGBK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: gamedhsz/font.assetbundle
+  assetBundleVariant: 

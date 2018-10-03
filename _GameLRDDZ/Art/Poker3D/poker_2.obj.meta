@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: d2ad8e334e7f3b1439df8dd67581a3a4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pCube48
+    100002: pCube49
+    100004: pCube50
+    100006: pCube51
+    100008: pCube52
+    100010: pCube53
+    100012: pCube54
+    100014: pCube55
+    100016: pCube56
+    100018: pCube57
+    100020: pCube58
+    100022: pCube59
+    100024: pCube60
+    100026: pCube61
+    100028: pCube62
+    100030: pCube63
+    100032: pCube64
+    100034: pCube65
+    100036: pCube66
+    100038: pCube67
+    100040: pCube68
+    100042: pCube69
+    100044: pCube70
+    100046: pCube71
+    100048: pCube72
+    100050: pCube73
+    100052: pCube74
+    100054: pCube75
+    100056: pCube76
+    100058: pCube77
+    100060: pCube78
+    100062: pCube79
+    100064: pCube80
+    100066: pCube81
+    100068: pCube82
+    100070: pCube83
+    100072: pCube84
+    100074: pCube85
+    100076: pCube88
+    100078: pCube89
+    100080: pCube90
+    100082: pCube91
+    100084: pCube92
+    100086: pCube93
+    100088: pCube94
+    100090: poker:pCube48
+    100092: //RootNode
+    400000: pCube48
+    400002: pCube49
+    400004: pCube50
+    400006: pCube51
+    400008: pCube52
+    400010: pCube53
+    400012: pCube54
+    400014: pCube55
+    400016: pCube56
+    400018: pCube57
+    400020: pCube58
+    400022: pCube59
+    400024: pCube60
+    400026: pCube61
+    400028: pCube62
+    400030: pCube63
+    400032: pCube64
+    400034: pCube65
+    400036: pCube66
+    400038: pCube67
+    400040: pCube68
+    400042: pCube69
+    400044: pCube70
+    400046: pCube71
+    400048: pCube72
+    400050: pCube73
+    400052: pCube74
+    400054: pCube75
+    400056: pCube76
+    400058: pCube77
+    400060: pCube78
+    400062: pCube79
+    400064: pCube80
+    400066: pCube81
+    400068: pCube82
+    400070: pCube83
+    400072: pCube84
+    400074: pCube85
+    400076: pCube88
+    400078: pCube89
+    400080: pCube90
+    400082: pCube91
+    400084: pCube92
+    400086: pCube93
+    400088: pCube94
+    400090: poker:pCube48
+    400092: //RootNode
+    2300000: pCube48
+    2300002: pCube49
+    2300004: pCube50
+    2300006: pCube51
+    2300008: pCube52
+    2300010: pCube53
+    2300012: pCube54
+    2300014: pCube55
+    2300016: pCube56
+    2300018: pCube57
+    2300020: pCube58
+    2300022: pCube59
+    2300024: pCube60
+    2300026: pCube61
+    2300028: pCube62
+    2300030: pCube63
+    2300032: pCube64
+    2300034: pCube65
+    2300036: pCube66
+    2300038: pCube67
+    2300040: pCube68
+    2300042: pCube69
+    2300044: pCube70
+    2300046: pCube71
+    2300048: pCube72
+    2300050: pCube73
+    2300052: pCube74
+    2300054: pCube75
+    2300056: pCube76
+    2300058: pCube77
+    2300060: pCube78
+    2300062: pCube79
+    2300064: pCube80
+    2300066: pCube81
+    2300068: pCube82
+    2300070: pCube83
+    2300072: pCube84
+    2300074: pCube85
+    2300076: pCube88
+    2300078: pCube89
+    2300080: pCube90
+    2300082: pCube91
+    2300084: pCube92
+    2300086: pCube93
+    2300088: pCube94
+    2300090: poker:pCube48
+    3300000: pCube48
+    3300002: pCube49
+    3300004: pCube50
+    3300006: pCube51
+    3300008: pCube52
+    3300010: pCube53
+    3300012: pCube54
+    3300014: pCube55
+    3300016: pCube56
+    3300018: pCube57
+    3300020: pCube58
+    3300022: pCube59
+    3300024: pCube60
+    3300026: pCube61
+    3300028: pCube62
+    3300030: pCube63
+    3300032: pCube64
+    3300034: pCube65
+    3300036: pCube66
+    3300038: pCube67
+    3300040: pCube68
+    3300042: pCube69
+    3300044: pCube70
+    3300046: pCube71
+    3300048: pCube72
+    3300050: pCube73
+    3300052: pCube74
+    3300054: pCube75
+    3300056: pCube76
+    3300058: pCube77
+    3300060: pCube78
+    3300062: pCube79
+    3300064: pCube80
+    3300066: pCube81
+    3300068: pCube82
+    3300070: pCube83
+    3300072: pCube84
+    3300074: pCube85
+    3300076: pCube88
+    3300078: pCube89
+    3300080: pCube90
+    3300082: pCube91
+    3300084: pCube92
+    3300086: pCube93
+    3300088: pCube94
+    3300090: poker:pCube48
+    4300000: pCube48
+    4300002: pCube49
+    4300004: pCube50
+    4300006: pCube51
+    4300008: pCube52
+    4300010: pCube53
+    4300012: pCube54
+    4300014: pCube55
+    4300016: pCube56
+    4300018: pCube57
+    4300020: pCube58
+    4300022: pCube59
+    4300024: pCube60
+    4300026: pCube61
+    4300028: pCube62
+    4300030: pCube63
+    4300032: pCube64
+    4300034: pCube65
+    4300036: pCube66
+    4300038: pCube67
+    4300040: pCube68
+    4300042: pCube69
+    4300044: pCube70
+    4300046: pCube71
+    4300048: pCube72
+    4300050: pCube73
+    4300052: pCube74
+    4300054: pCube75
+    4300056: pCube76
+    4300058: pCube77
+    4300060: pCube78
+    4300062: pCube79
+    4300064: pCube80
+    4300066: pCube81
+    4300068: pCube82
+    4300070: pCube83
+    4300072: pCube84
+    4300074: pCube85
+    4300076: pCube88
+    4300078: pCube89
+    4300080: pCube90
+    4300082: pCube91
+    4300084: pCube92
+    4300086: pCube93
+    4300088: pCube94
+    4300090: poker:pCube48
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube48Mat
+    second: {fileID: 2100000, guid: c575e8aac409f6144ba701aaacbf8941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube49Mat
+    second: {fileID: 2100000, guid: 79f83b0af3b1ff940a9487828df6dd1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube50Mat
+    second: {fileID: 2100000, guid: e97f3fe247b0d3843a49a13022e3af60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube51Mat
+    second: {fileID: 2100000, guid: beb1b3f310b0e8f4eb35f14cfe9accc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube52Mat
+    second: {fileID: 2100000, guid: e168e5dca7149f04d9cb12a7bfb46200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube53Mat
+    second: {fileID: 2100000, guid: b845c0e422eeb8548a7007db69ecb8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube54Mat
+    second: {fileID: 2100000, guid: 0400f3338781ccb46bc2817e1a5b4172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube55Mat
+    second: {fileID: 2100000, guid: b15e6bbff78a0e5469625f4df4661e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube56Mat
+    second: {fileID: 2100000, guid: 0ca50db36e4c0fe458699bc83f9fa174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube57Mat
+    second: {fileID: 2100000, guid: 7d801cf4acc6a99468ede24adc973717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube58Mat
+    second: {fileID: 2100000, guid: 2fb4e4d93513a8344b0755c81601d8b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube59Mat
+    second: {fileID: 2100000, guid: a1a5ec49032a2e944aac0167ae87fa14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube60Mat
+    second: {fileID: 2100000, guid: 252316e99e8358d46ae4459311a96a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube61Mat
+    second: {fileID: 2100000, guid: 56e3f17dcab19b740ab2b1e740055046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube62Mat
+    second: {fileID: 2100000, guid: ab4ebc3b73d7e6e45bb477905d21283e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube63Mat
+    second: {fileID: 2100000, guid: 36e67eec50cb97a45b47db6737d8a37e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube64Mat
+    second: {fileID: 2100000, guid: c632d0c4ab1cd194a91dd7485ef5dd67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube65Mat
+    second: {fileID: 2100000, guid: fc381248c14869e4e9826d172f266800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube66Mat
+    second: {fileID: 2100000, guid: 70b620761c879d341bc0e924237a67d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube67Mat
+    second: {fileID: 2100000, guid: 723f69cdb9d56684d99c6b6efd40004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube68Mat
+    second: {fileID: 2100000, guid: 517a6d8388ce50f439fc6f411e9001b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube69Mat
+    second: {fileID: 2100000, guid: e63f6cfb9c49960448c2473d36968b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube70Mat
+    second: {fileID: 2100000, guid: 1686549fab1f6844485ee89975185537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube71Mat
+    second: {fileID: 2100000, guid: de0fd6aef277ac54e9a8e986240c4dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube72Mat
+    second: {fileID: 2100000, guid: 42b5971c579db684bb1d76d60270f7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube73Mat
+    second: {fileID: 2100000, guid: 27a3a51bbe0a9744c99a15d0d24326ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube74Mat
+    second: {fileID: 2100000, guid: eeac2686ae4421b45967d51f97539911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube75Mat
+    second: {fileID: 2100000, guid: 24a1a713568119b4a9c9095b37bcb0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube76Mat
+    second: {fileID: 2100000, guid: 43160c14faa70fc48a15fc41b76d932c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube77Mat
+    second: {fileID: 2100000, guid: 70e2653c001d18c4386f3cdaa6e701a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube78Mat
+    second: {fileID: 2100000, guid: 59eafb9115cba6e4abdb68a7ebe5606a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube79Mat
+    second: {fileID: 2100000, guid: 3f926593cd00da44b885fa0a2793384b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube80Mat
+    second: {fileID: 2100000, guid: 2089e67f18f4503438615113f7978a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube81Mat
+    second: {fileID: 2100000, guid: d93b228f4daf8ba4a83bbc7dc235dca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube82Mat
+    second: {fileID: 2100000, guid: 6cd5a774637718e45a829435ad7c983c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube83Mat
+    second: {fileID: 2100000, guid: f92de54ffcdf1b64cb7f9a3b36a80606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube84Mat
+    second: {fileID: 2100000, guid: 5dc1bdd16b3e78c46a27c86ecb1f653c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube85Mat
+    second: {fileID: 2100000, guid: 1af976be98601c4409fd17e55309d3b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube88Mat
+    second: {fileID: 2100000, guid: e40e76835fa81194e97beefcb0afcb53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube89Mat
+    second: {fileID: 2100000, guid: 274930966bda18e408e3e6c57656fd32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube90Mat
+    second: {fileID: 2100000, guid: f7b65f84bec2f0d4b9f95ac55961b7fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube91Mat
+    second: {fileID: 2100000, guid: 2e6c506a08edee74eb978e32bf1cee37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube92Mat
+    second: {fileID: 2100000, guid: aba7892534d550c4fb686b4ef3bba873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube93Mat
+    second: {fileID: 2100000, guid: ca9235bb7e93f1d4980ccf2e55a31356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube94Mat
+    second: {fileID: 2100000, guid: add0010a846015c49b0fc26d0d3ed459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poker_pCube48Mat
+    second: {fileID: 2100000, guid: 86fc1684a2644ba42af386dd5612bdea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

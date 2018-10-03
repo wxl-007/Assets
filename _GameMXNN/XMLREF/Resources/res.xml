@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resouces>
+<string-array name="mx_nn_type">
+<item>无牛</item>
+<item>牛一</item>
+<item>牛二</item>
+<item>牛三</item>
+<item>牛四</item>
+<item>牛五</item>
+<item>牛六</item>
+<item>牛七</item>
+<item>牛八</item>
+<item>牛九</item>
+<item>牛牛</item>
+<item>银牛</item>
+<item>金牛</item>
+</string-array>
+<!-- mx_tip -->
+<string name="mx_updealer_fail_nomoney">钱数不足{0},无法上庄</string>
+<string name="mx_wait_next_start">等待下一局开始..</string>
+<string name="mx_wait_bankup">等待玩家上庄..</string>
+<string name="mx_wait_ready">等待玩家就绪..</string>
+<string name="mx_game_waiting">游戏等待中..</string>
+<string name="mx_err_game_beting">下注阶段无法申请上庄</string>
+<!-- game_bet_err_code -->
+<string name="mx_bet_err_0">已到庄家上限</string>
+<string name="mx_bet_err_1">已到玩家上限</string>
+<string name="mx_bet_err_2">带入钱币不足</string>
+<string name="mx_bet_err_3">到达盘面上限</string>
+<string name="mx_bet_err_4">坐下失败</string>
+<string name="mx_bet_err_5">已经坐下</string>
+<string name="mx_bet_err_6">座位被占了</string>
+<string name="mx_bet_err_7">没有空座了</string>
+<string name="mx_bet_err_8">你尚未入座，无法发送表情</string>
+<string name="mx_bet_err_9">请先离开座位</string>
+<string name="mx_bet_err_10">购买失败</string>
+<string name="mx_bet_err_11">用户携带金币不足，无法购买</string>
+<string name="mx_bet_err_12">当前只有一桌，无法换桌</string>
+
+<!-- game_str -->
+<string name="mx_label_0">昵称:</string>
+<string name="mx_label_1">战绩:</string>
+<string name="mx_label_2">局数:</string>
+<string name="mx_label_3">昵称:</string>
+<string name="mx_label_4">战绩:</string>
+<string name="mx_label_5">游戏币:</string>
+<string name="mx_bakup_label">{0} 上庄</string>
+<!-- unit -->
+<string name="mx_bet_unit">万</string>
+<string name="mx_settle_unit_1">倍</string>
+<string name="mx_settle_fmat_0">{0} x{1}倍\n+{2}</string>
+<string name="mx_settle_fmat_1">{0} x{1}倍\n{2}</string>
+<string name="mx_settle_fmat_2">{0}\n无成绩</string>
+<string name="mx_settle_fmat_3">{0}\n+{1}</string>
+<string name="mx_settle_fmat_4">{0}\n{0}</string>
+<string name="mx_settle_fmat_5">{0}\n无成绩</string>
+<string name="ssd"></string>
+
+<string name="message_prompt_0">莫偷鸡，偷鸡必被抓！</string>
+<string name="message_prompt_1">别挣扎了，大奖非我莫属！</string>
+<string name="message_prompt_2">我的宝剑已经饥渴难耐了！</string>
+<string name="message_prompt_3">冷静！冲动是魔鬼！</string>
+<string name="message_prompt_4">对子在手，天下无敌！</string>
+<string name="message_prompt_5">这手牌打的不错，赢的漂亮！</string>
+<string name="message_prompt_6">快点下注吧！爷时间宝贵！</string>
+<string name="message_prompt_7">很高兴能和大家一起打牌.</string>
+<string name="message_prompt_8">赢钱了别走，留下你的姓名！</string>
+<string name="message_prompt_9">难道你看穿我的底牌了吗？</string>
+<string name="message_prompt_10">各位爷，让看看翻牌再加注吧！</string>
+<string name="message_prompt_11">输惨了啦!</string>
+<string name="message_prompt_12">似乎有埋伏，不可轻举妄动.</string>
+<string name="message_prompt_13">你牌技这么好，地球人知道吗？</string>
+<string name="message_prompt_14">想什么呢？快点！</string>
+  <string name="message_error_1">还未开始游戏，无法互送道具</string>
+  <string name="message_error_2">还未开始游戏，无法赠送礼品</string>
+  <string name="message_error_3">还未开始游戏，无法发送表情</string>
+  <string name="message_error_4">还未开始游戏，无法发送语音</string>
+  <string name="message_error_5">操作过于频繁，请稍后发送</string>
+  <string name="message_error_6">请选择语音之后再进行发送</string>
+
+
+
+  <string name="msg_ddz_0">大家好,给各位请安啦!</string>
+  <string name="msg_ddz_1">这牌你也敢叫地主，简直自寻死路.</string>
+  <string name="msg_ddz_2">喂！你倒是快点啊.</string>
+  <string name="msg_ddz_3">拖时间是没用滴!</string>
+  <string name="msg_ddz_4">出啊！好牌都留着下蛋呢?</string>
+  <string name="msg_ddz_5">不怕神一样的对手，就怕猪一样的队友</string>
+  <string name="msg_ddz_6">你很罗嗦诶！安静打牌好不!</string>
+  <string name="msg_ddz_7">别崇拜#,#只是个传说.</string>
+  <string name="msg_ddz_8">和你合作真是太愉快啦!</string>
+  <string name="msg_ddz_9">不好意思各位，我先走一步了.</string>
+  <string name="msg_ddz_10">这把牌实在太烂了!</string>
+  <string name="msg_ddz_11">牌好心情就好.</string>
+</resouces>

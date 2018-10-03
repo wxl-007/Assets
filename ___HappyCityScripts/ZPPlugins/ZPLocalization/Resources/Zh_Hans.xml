@@ -1,0 +1,155 @@
+<Root>
+
+	<HttpConnectWait>正在处理，请稍等...</HttpConnectWait>
+	<HttpConnectLogin>正在登陆，请稍等...</HttpConnectLogin>
+	<HttpConnectWaitUpdateUserinfo>正在更新用户信息，请稍等...</HttpConnectWaitUpdateUserinfo>
+	<HttpConnectSucess>操作成功</HttpConnectSucess>
+	<HttpConnectFailed>服务器连接失败，请稍等再试。</HttpConnectFailed>
+	<HttpConnectError>服务器反馈错误，请稍后再试。</HttpConnectError>
+
+	<ScreenLoading>正在加载...</ScreenLoading>
+
+	<LoadingCheckVersion>版本检测更新...</LoadingCheckVersion>
+	<LoadingLoadInfo>正在加载...</LoadingLoadInfo>
+	<LoadingDoLogin>正在登陆...</LoadingDoLogin>
+
+	<LoginUsername>请输入用户名</LoginUsername>
+	<LoginPassword>请输入密码</LoginPassword>
+  <LoginVerifycode>请输入验证码</LoginVerifycode>
+  <LoginGetVerifycode>验证码获取失败，请点击刷新</LoginGetVerifycode>
+
+  <HallHomeInfos>{"gameGrand":[{"title":"抓牛大赛震撼开赛", "url":"http://www.game510k.com/hd/znds/"}, {"title":"510k临时维护公告", "url":"http://www.game510k.com/xinwen/201.html"}, {"title":"庆祝上线充值打折扣活动", "url":"http://pay.game510k.com/account/pay/"}],"gameInfo":[{"title":"维护公告", "url":"http://www.game510k.com/", "bold":true}, {"title":"通比牛牛手机版更新公告", "url":"http://www.game510k.com/"}, {"title":"通比牛牛手机版上线公告", "url":"http://www.game510k.com/"}],"issue":[{"title":"如何在线充值购买欢乐豆", "url":"http://pay.game510k.com/account/pay/"}, {"title":"如何找回游戏和银行密码", "url":"http://www.game510k.com/account/login/?next=/home/security/"}, {"title":"如何修改游戏密码", "url":"http://www.game510k.com/account/login/?next=/home/security/"}],"support_qq":["800091510 ","800091510 "],"support_phone":"15090044444"}</HallHomeInfos>
+  
+  <RegisterUsername>请输入用户名</RegisterUsername>
+	<RegisterNickname>请输入昵称</RegisterNickname>
+  <RegisterlitNickname>昵称过短,请重新输入</RegisterlitNickname>
+  <RegisterbigNickname>昵称过长,请重新输入</RegisterbigNickname>
+	<RegisterPassword>请输入密码</RegisterPassword>
+  <RegisterPsOld>请输入当前登录密码</RegisterPsOld>
+  <RegisterPsNew>请输入新的登录密码</RegisterPsNew>
+	<RegisterPasswordVerify>两次输入的密码不一致,请重新输入</RegisterPasswordVerify>
+	<RegisterRealName>请填写真实姓名</RegisterRealName>
+	<RegisterRealID>请填写身份证号</RegisterRealID>
+	<RegisterAgreement>注册需同意《快乐之都用户服务协议》</RegisterAgreement>
+	<RegisterVerifyCode>请填写验证码</RegisterVerifyCode>
+	<RegisterPhoneNumber>请输入手机号</RegisterPhoneNumber>
+	<RegisterPhoneNickname>请输入昵称</RegisterPhoneNickname>
+	<RegisterPhoneSucess>注册成功！您的账号名及密码将会以短信方式发送至您的注册手机，请及时查收</RegisterPhoneSucess>
+
+	<HallQuickPlayError>未找到合适房间，请进入房间列表查看</HallQuickPlayError>
+	<HallNotice>获取游戏公告失败，请点击进入官网查看</HallNotice>
+
+	<MailSendNickname>请输入收件人昵称</MailSendNickname>
+	<MailSendTitle>请输入邮件标题</MailSendTitle>
+	<MailSendContent>请输入邮件内容</MailSendContent>
+	<MailSystem>[系统]</MailSystem>
+
+	<BankAmount>请输入交易金额</BankAmount>
+	<BankErrorAmount>输入交易金额有误</BankErrorAmount>
+	<BankPassword>请输入交易密码</BankPassword>
+  <BankPsOld>请输入当前交易密码</BankPsOld>
+  <BankPsNew>请输入新的交易密码</BankPsNew>
+  <BankYZword>请输入验证码</BankYZword>
+  <BankPsVerify>两次密码输入不一致</BankPsVerify>
+
+  <RechargeMoney>请输入正确的充值金额</RechargeMoney>
+  <RechargeUsername>账号信息已过期，请重新登录</RechargeUsername>
+
+	<GiftID>请输入收款人ID</GiftID>
+	<GiftMoney>请输入赠送金额</GiftMoney>
+	<GiftPassword>请输入交易密码</GiftPassword>
+  <GiftErrorAmount>输入交易金额有误</GiftErrorAmount>
+	<GiftNumberZH_0>万</GiftNumberZH_0>
+	<GiftNumberZH_1>亿</GiftNumberZH_1>
+  <GiftNumberZH_2>仟</GiftNumberZH_2>
+  <GiftNumberZH_3>佰</GiftNumberZH_3>
+  <GiftNumberZH_4>拾</GiftNumberZH_4>
+  <GiftNumberZH_5>整</GiftNumberZH_5>
+  <GiftNumberZH_6>元</GiftNumberZH_6>
+
+
+  <GiftNumberZH_10>零</GiftNumberZH_10>
+  <GiftNumberZH_11>壹</GiftNumberZH_11>
+  <GiftNumberZH_12>贰</GiftNumberZH_12>
+  <GiftNumberZH_13>叁</GiftNumberZH_13>
+  <GiftNumberZH_14>肆</GiftNumberZH_14>
+  <GiftNumberZH_15>伍</GiftNumberZH_15>
+  <GiftNumberZH_16>陆</GiftNumberZH_16>
+  <GiftNumberZH_17>柒</GiftNumberZH_17>
+  <GiftNumberZH_18>捌</GiftNumberZH_18>
+  <GiftNumberZH_19>玖</GiftNumberZH_19>
+  
+	<Room_MaxMoney>无限</Room_MaxMoney>
+
+	<Socket_Quick>进入游戏失败，请检查账号状态后重试</Socket_Quick>
+	<Socket_Unkonw>联接服务器失败, 请稍候再试</Socket_Unkonw>
+	<Socket_Valid>联接参数有误，请稍候再试</Socket_Valid>
+	<Socket_UnexpectedDisconnect>联接意外断开，请稍候再试</Socket_UnexpectedDisconnect>
+	<Socket_login_failed_auth>用户名密码错误</Socket_login_failed_auth>
+	<Socket_login_failed_inactive>用户未激活, 请联系管理员</Socket_login_failed_inactive>
+	<Socket_login_failed_otherroom>用户正在另一个房间游戏</Socket_login_failed_otherroom>
+	<Socket_login_failed_nomoney>游戏币不足, 请取款或充值</Socket_login_failed_nomoney>
+	<Socket_login_failed_nousemoney>可用游戏币不足, 请取款或充值</Socket_login_failed_nousemoney>
+	<Socket_login_failed_nomoney_min>最小携带: </Socket_login_failed_nomoney_min>
+	<Socket_login_failed_notexist>游戏房间不存在</Socket_login_failed_notexist>
+	<Socket_login_failed_online>您的帐号正在游戏中</Socket_login_failed_online>
+	<Socket_login_failed_closed>房间已关闭</Socket_login_failed_closed>
+	<Socket_login_failed_closed_reason>, 关闭原因: </Socket_login_failed_closed_reason>
+	<Socket_login_from_somewhere>您的帐号从其他地方登陆</Socket_login_from_somewhere>
+
+	<Socket_sit_Unkonw>加入牌桌失败, 请稍候换位再试</Socket_sit_Unkonw>
+	<Socket_sit_fail_1>牌桌创建失败</Socket_sit_fail_1>
+	<Socket_sit_fail_2>本桌已有相同IP</Socket_sit_fail_2>
+	<Socket_sit_fail_3>本桌已坐满</Socket_sit_fail_3>
+
+  <Socket_seatmatch_on_login>进来了</Socket_seatmatch_on_login>
+  <Socket_seatmatch_on_logout>离开了</Socket_seatmatch_on_logout>
+   
+  <GameID_1006>斗地主</GameID_1006>
+  <GameID_1010>老十三张</GameID_1010>
+  <GameID_1028>新十三张</GameID_1028>
+  <GameID_1029>多人30秒</GameID_1029>
+  <GameID_1034>对战牛牛</GameID_1034>
+  <GameID_1036>通比牛牛</GameID_1036>
+  <GameID_1037>激情牛牛</GameID_1037>
+  <GameID_1040>车马炮</GameID_1040>
+  <GameID_1042>四人牛牛</GameID_1042>
+  <GameID_1056>百倍牛牛</GameID_1056>
+  <GameID_1027>多人两张</GameID_1027>
+  <GameID_1039>大圣捕鱼</GameID_1039>
+  <GameID_1043>飞腾五张</GameID_1043>
+  <GameID_1060>飞腾五张比赛</GameID_1060>
+  <GameID_1038>火拼两张</GameID_1038>
+  <GameID_1031>多人牛牛</GameID_1031>
+  <GameID_1037>激情牛牛</GameID_1037>
+  <GameID_1055>看牌牛牛</GameID_1055>
+  <GameID_1062>通比五张</GameID_1062>
+  <GameID_1053>多人小九</GameID_1053>
+  <GameID_1046>李逵劈鱼</GameID_1046>
+  <GameID_1033>金蟾捕鱼</GameID_1033>
+  <GameID_1049>哪吒闹海</GameID_1049>
+  
+<GameName_1006>DDZ</GameName_1006>
+  <GameName_1010>LSSZ</GameName_1010>
+  <GameName_1028>XSSZ</GameName_1028>
+  <GameName_1029>30M</GameName_1029>
+  <GameName_1034>DZNN</GameName_1034>
+  <GameName_1036>TBNN</GameName_1036>
+  <GameName_1037>JQNN</GameName_1037>
+  <GameName_1040>CMP</GameName_1040>
+  <GameName_1042>SRNN</GameName_1042>
+  <GameName_1056>BBDZ</GameName_1056>
+  <GameName_1027>BRLZ</GameName_1027>
+  <GameName_1039>DSBY</GameName_1039>
+  <GameName_1043>FTWZ</GameName_1043>
+  <GameName_1060>FTWZBS</GameName_1060>
+  <GameName_1038>HPLZ</GameName_1038>
+  <GameName_1031>MXNN</GameName_1031>
+  <GameName_1037>JQNN</GameName_1037>
+  <GameName_1055>KPNN</GameName_1055>
+  <GameName_1062>TBWZ</GameName_1062>
+  <GameName_1053>XJ</GameName_1053>
+  <GameName_1046>LKPY</GameName_1046>
+  <GameName_1033>JCBY</GameName_1033>
+  <GameName_1049>NZNH</GameName_1049>
+</Root>

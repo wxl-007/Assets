@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ebcdd5fc41e646c4caa0a68c0a2c1bda
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: gamedzpk/sounds.assetbundle
+  assetBundleVariant: 

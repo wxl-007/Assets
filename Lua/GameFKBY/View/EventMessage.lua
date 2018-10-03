@@ -1,0 +1,2 @@
+EventMessage = {};
+local this = EventMessage;
